@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "simple-mcp-server": {
+      "url": "http://localhost:8080/"
+    }
+  }
+}
